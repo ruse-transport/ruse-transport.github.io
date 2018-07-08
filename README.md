@@ -7,12 +7,11 @@
 
 ####    Превоз с платформа на аварирали или стари автомобили с технически дефекти - до 2.2 тона.
 
-![Снимка_1](https://github.com/ruse-transport/ruse-transport.github.io/blob/master/36754128_260207821404743_5448091067796684800_n.jpg)
+![Снимка_1](https://raw.githubusercontent.com/ruse-transport/ruse-transport.github.io/master/36754128_260207821404743_5448091067796684800_n.jpg)
 
+![Снимка_2](https://raw.githubusercontent.com/ruse-transport/ruse-transport.github.io/master/36779238_260209381404587_5738809806265778176_n.jpg)
 
-![Снимка_2](https://github.com/ruse-transport/ruse-transport.github.io/blob/master/36779238_260209381404587_5738809806265778176_n.jpg)
-
-![Снимка_3](https://github.com/ruse-transport/ruse-transport.github.io/blob/master/36792754_260209371404588_1251847980256854016_n.jpg)
+![Снимка_3](https://raw.githubusercontent.com/ruse-transport/ruse-transport.github.io/master/36792754_260209371404588_1251847980256854016_n.jpg)
 
 
 
